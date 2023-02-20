@@ -1,0 +1,9 @@
+# exclude everything
+assign1/src/*
+
+# exception to the rule
+!assign1/doc.gitkeep 
+!assign2/doc.gitkeep
+
+
+.vscode/*
